@@ -1,4 +1,4 @@
-# Screenshots – Customize Incident form for Majopr incident
+# Screenshots – Customize Incident form for Major incident
 
 This folder contains screenshots showing:
 - Create role for major incident manager
